@@ -11,3 +11,6 @@ sudo python3 ./setup.py install
 # Cleanup
 cd /tmp
 sudo rm -rf /tmp/dot3k
+
+# Leave evidence that it worked
+touch /home/pi/dot3k.installed
