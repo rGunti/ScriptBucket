@@ -16,6 +16,6 @@ However you cannot:
 You must:
 
 - Include the copyright notice in places where it is needed
-- Include a copy of the MIT license in your project (see therefore: [LICENSE]() License)
+- Include a copy of the MIT license in your project (see therefore: [LICENSE](LICENSE) License)
 
-If you need more info about this license, visit [https://tldrlegal.com/license/mit-license]()
+If you need more info about this license, visit [https://tldrlegal.com/license/mit-license](https://tldrlegal.com/license/mit-license)
