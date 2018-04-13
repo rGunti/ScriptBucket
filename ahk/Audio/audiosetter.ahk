@@ -3,7 +3,7 @@
 ; Sets the default audio device when launched
 ; 
 ; Dependencies:
-; 	- nircmd
+;   - nircmd
 ;   - 7zip (to extract nircmd if needed)
 ;
 ; ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
